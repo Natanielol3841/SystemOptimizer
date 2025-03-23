@@ -1,12 +1,12 @@
 # SystemOptimizer
-Malware made with AI.
+Malware made with ChatGPT
 
-# How to run and execute and fok up ur pc
-basicaly get he files and execute it.
-ur pc is cooked lol
+# WARNINGS
+PLEASE PLEASE DONT RUN THIS ON YOUR
+MAIN MASHINE IM NOT RESPONSIBLE FOR
+ANY DAMAGES DONE TO YOUR HARDWARE
+RUN IN VM FOR BEST EXPERIENCE
 
-# How to fix?
-just type the password "YourSecretPassword" :)
-
-# Why did this get remastered?
-cause it got filed as virus and rip lmao
+# What does this do?
+Terminates explorer, diasbles taskmgr, moves files to hidden appdata folder, requests password, and when you fix and put the password you will all be fine. and everything is reversed.
+password: YourSecretPassword
